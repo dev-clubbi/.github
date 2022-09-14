@@ -1,6 +1,6 @@
 {
-  "name": "Deploy Python",
-  "description": "Deploy python serverless",
+  "name": "Deploy Python Serverless",
+  "description": "Deploy python serverless optimized for clubbi",
   "categories": [
     "Python",
     "Serverless",
