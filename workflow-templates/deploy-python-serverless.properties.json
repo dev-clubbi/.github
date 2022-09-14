@@ -1,0 +1,15 @@
+{
+  "name": "Deploy Python",
+  "description": "Deploy python serverless",
+  "categories": [
+    "Python",
+    "Serverless",
+    "Lambda"
+  ],
+  "filePatterns": [
+    "serverless.yml",
+    "lambda_layer.yml",
+    "Pipfile.lock",
+    "package-lock.json"
+  ]
+}
